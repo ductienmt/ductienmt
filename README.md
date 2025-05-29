@@ -1,7 +1,7 @@
 # 💫About Me :
 WELCOME TO MY PAGE 👋👋👋
 
-My name is Duc Tien. I'm Fullstack Developer, currently intern at Wisdom Robotics. I'm interested in the following topics: AI, Website and Mobile App
+My name is Duc Tien. I'm Fullstack Developer. I'm interested in the following topics: AI, Website and Mobile App
 
 
 ## 🌐Socials
